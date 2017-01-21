@@ -1,7 +1,5 @@
 /* Sammy's Stylesheet */
 
-h1 {color: steelblue}
-* {
-  font-type: Verdana, Geneva, sans-serif;
-}
+h1 {color: steelblue; backgroun-color: #CBC7C7;}
+* { font-type: Verdana, Geneva, sans-serif;}
 
